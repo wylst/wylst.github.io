@@ -1,4 +1,9 @@
-wylst.github.io
-===============
+## Wylst site
+Nothing much to see here.
 
-Wylst site
+### Colophon
+Fonts used:
+- **Body**: Latin Modern Mono (GUST)
+- **Heading**: Libre Caslon Display (Impallari Type)
+
+These webfonts are proudly served by [Brick](http://brick.im).
