@@ -1,4 +1,4 @@
-## Wylst site
+## [Wylst site](http://wylst.com)
 Nothing much to see here.
 
 ### Colophon
